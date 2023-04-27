@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="test cd and github pages!" />
+      <HelloWorld msg="Hi test cd and github pages!" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
