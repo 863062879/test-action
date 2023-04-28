@@ -11,8 +11,8 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Hi test cd and github pages!" />
 
       <nav>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/">go Home</RouterLink>
+        <RouterLink to="/about">go About</RouterLink>
       </nav>
     </div>
   </header>
